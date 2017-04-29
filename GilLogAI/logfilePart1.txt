@@ -1,0 +1,8 @@
+05-01-2012 19:45:00 Naomi3 is getting into the car
+04-01-2012 20:12:39 Naomi4 is eating at a restaurant
+03-01-2012 09:13:15 George5 is getting into the car
+09-01-2012 19:45:00 Naomi6 is getting into the car
+08-01-2012 20:12:39 Naomi7 is eating at a restaurant
+07-01-2012 09:13:15 George8 is getting into the car
+05-01-2012 19:45:00 Naomi is getting into the car
+05-01-2012 19:45:00 This will not be printed
